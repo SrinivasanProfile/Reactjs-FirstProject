@@ -1,0 +1,61 @@
+{
+    "Students": [
+        {
+            "id":1,
+            "name":"ViratKohli",
+            "JessyNumber":18,
+            "Role":"Captain",
+            "Nickname":"KingKohli",
+            "Team":"RCB"   
+        },
+        {
+            "id":2,
+            "name":"Ms Dhoni",
+            "JessyNumber":7,
+            "Role":"CaptainCool",
+            "Nickname":"TheFinisher",
+            "Team":"CSK"   
+        },
+        {
+            "id":3,
+            "name":"Sachin",
+            "JessyNumber":2,
+            "Role":"Mr 100",
+            "Nickname":"GodOfCricket",
+            "Team":"MI"   
+        },
+        {
+            "id":4,
+            "name":"Jadeja",
+            "JessyNumber":17,
+            "Role":"All Rounder",
+            "Nickname":"Jaddu",
+            "Team":"CSK"   
+        },
+        {
+            "id":5,
+            "name":"Rohit",
+            "JessyNumber":23,
+            "Role":"Captain",
+            "Nickname":"MrTrophy",
+            "Team":"MI"   
+        },
+        {
+            "id":6,
+            "name":"AB Develliers",
+            "JessyNumber":12,
+            "Role":"Pillar of RCB",
+            "Nickname":"Mr 360",
+            "Team":"RCB"   
+        },
+        {
+            "id":7,
+            "name":"Sheywag",
+            "JessyNumber":28,
+            "Role":"Opener",
+            "Nickname":"King of Opener",
+            "Team":"PK"   
+        }
+
+    ]
+}

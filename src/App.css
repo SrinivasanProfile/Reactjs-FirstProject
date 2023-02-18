@@ -1,0 +1,386 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#mainnav
+{
+    background-color:#2874f0;
+    height: 56px;
+    width: 1400px;
+    position: fixed;
+}
+#flipkart
+{
+    font-family:cursive;
+    position: relative;
+    top: 4px;
+    left: 188px;
+    color: #f0f0f0;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    font-style:unset;
+}
+#explore
+{
+    font-family:  Roboto,Arial,sans-serif;
+    color: #f0f0f0;
+    position: relative;
+    left: 113px;
+    top:19px;
+    font-size: 10.5px;
+    font-style: oblique;
+    font-weight: bold;
+    text-decoration: none;   
+}
+#plus{
+    color:#ffe11b;
+    position: relative;
+    left: 113px;
+    top: 19px;
+    font-weight: bold;
+    font-size: 11.5px;
+    font-family:cursive;
+    font-style: italic;
+}
+#img1
+{
+    height: 12px;
+    width: 12px;
+    position: relative;
+    left: 115px;
+    top: 20px;
+}
+#inputbtn
+{
+    margin-left: 290px;
+}
+#search
+{
+    height: 38px;
+    width: 446px;
+    position: relative;
+    bottom: 20px;
+    right: 15px;
+     background-color: #f0f0f0;
+    border: none;
+    border-radius: 2px 2px;
+}
+#btn2
+{
+    height: 35px;
+    width: 122px;
+    position: relative;
+    bottom: 20px;
+    left: 6px;
+    color:#2874f0 ;
+    font-weight: bolder;
+    font-size: 15px;
+}
+#seller
+{
+    position: relative;
+    bottom: 56px;
+    left: 910px;
+    color: #f0f0f0;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    
+}
+#more
+{
+    position: relative;
+    bottom: 56px;
+    left: 950px;
+    color: #f0f0f0;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+}
+#cart
+{
+    position: relative;
+    left: 1020px;
+    bottom: 56px;
+    font-weight: bold;
+    color: #f0f0f0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+#img2
+{
+    height: 23px;
+    width: 23px;
+    position: relative;
+    left: 960px;
+    bottom: 49px;
+}
+#img3
+{
+    position: relative;
+    height: 20px;
+    width: 20px;
+    left: 50px;
+}
+#search-box
+{
+    height: 20px;
+    width: 20px;
+}
+#searchsymbol
+{
+    position: relative;
+    right: 50px;
+    bottom: 17px;
+    /* top: 10px; */
+}
+#navbarcontent
+{
+    padding: 9px;
+}
+#Navbar2
+{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    padding-top: 65px;
+}
+#cartlogo
+{
+    position: relative;
+    left: 855px;
+    bottom: 56px;
+    background-color: #ffe11b;
+    height: 10px;
+    width: 10px;
+}
+#id1,#id2
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id2
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id3
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id4
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id5
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id6
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id7
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id8
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id9
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#id10
+{
+    text-decoration: none;
+    color: black;
+    background-color: #f0f0f0;
+}
+#Navbar2img
+{
+    height: 67px;
+    width: 66px;
+    display:flex;
+}
+#prod1  
+{
+    position: relative;
+    left: 62px;
+    bottom: 15px;
+}
+#prod2
+{
+    margin-left: 130px;
+    position: relative;
+    bottom: 15px;
+}
+#prod3
+{
+    margin-left: 45px;
+    position: relative;
+    bottom: 15px;
+}
+#prod4
+{
+    margin-left: 45px;
+    position: relative;
+    bottom: 15px;
+}
+#prod5
+{
+    margin-left: 58px;
+    position: relative;
+    bottom: 15px;
+}
+#prod6
+{
+    margin-left: 52px;
+    position: relative;
+    bottom: 15px;
+}
+#prod7
+{
+    margin-left: 48px;
+    position: relative;
+    bottom: 15px;
+}
+#prod8
+{
+    margin-left: 54px;
+    position: relative;
+    bottom: 15px;
+}
+#prod9
+{
+    margin-left: 90px;
+    position: relative;
+    bottom: 15px;
+}
+#prod10 
+{
+    margin-left: 100px;
+    position: relative;
+    bottom: 15px;
+}
+/* ??????????????Home Css Properties ///////////////////////////////// */
+/* .products
+{
+    background-color: #9ebff3;
+    display: grid;
+    grid-template-columns: 300px 300px 300px ;
+    width: 900px;
+    margin: auto;
+    justify-items: center;
+}
+.product
+{
+    height: 350px;
+    width: 350px;
+    display: grid;
+    justify-items: center;
+}
+.product img 
+{
+    margin-top: 20px;
+    width: 200px;
+    height: 250px;
+}
+.display-prod > h1
+{
+    text-align: center;
+    margin-top: 20px;
+} */
+
+/* ??????????????Home Css Properties Ends///////////////////////////////////// */
+
+.allProducts
+{
+    margin-top: 20px;
+}
+.display-prod
+{
+    width:350px ;
+    height: 490px;
+    background-color: #2874f0;
+    margin: auto;
+    display: grid;
+    justify-items: center;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 100px;
+    box-shadow: 2px 3px 15px rgba(0, 0, 0, 2.5);  
+}
+.display-prod>img
+{
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 10px;  
+    margin: auto;
+    margin-top: 10px;
+    
+}
+.allProducts>h1
+{
+    text-align: center;
+}
+.products{
+    width: 100%;
+    /* background-color: #f0f0f0; */
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    align-items: center;
+}
+#loader
+{
+    height: 300px;
+    width: 300px;
+    margin-top: 160px;
+   margin-left: 500px;
+   background-color:transparent;
+   animation-name: loader;
+   animation-duration: 3s;
+   animation-iteration-count:infinite;
+   animation-timing-function: linear;
+}
+@keyframes loader
+{
+    0%{
+        transform: rotate(odeg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+#prod-img:hover
+{
+    transform: scale(1.05);
+    transition: 1s;
+    z-index: 0;
+}
